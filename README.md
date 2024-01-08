@@ -3,7 +3,7 @@
 - Kazi Jubayer Sharif 
 
 
-# Layout
+# Layout (BG-[# 000435])
 1) Navbar 
 2) Hero Section (flexed with header and the image rounded-full )
 3) Skill Section
